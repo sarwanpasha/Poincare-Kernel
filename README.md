@@ -1,4 +1,4 @@
-# Preserving Hidden Hierarchical Structure: Poincar ́e Distance for 1 Enhanced Genomic Sequence Analysis
+# Preserving Hidden Hierarchical Structure: Poincare Distance for 1 Enhanced Genomic Sequence Analysis
 
 This repository is for the paper "Preserving Hidden Hierarchical Structure: Poincar ́e Distance for 1 Enhanced Genomic Sequence Analysis".
 
